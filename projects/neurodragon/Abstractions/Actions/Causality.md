@@ -1,0 +1,1 @@
+Causality  in our [[Abstractions]] is implemented in a sequential manner, where state updates are always locally induced by the [[Actions]] of `source` [[Entities]] over a `target` entity, potentially itself. 

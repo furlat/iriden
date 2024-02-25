@@ -1,0 +1,3 @@
+In this framework we can specify both the state of the world and desired objectives with a [[Proposition]]  object. `Goap` is achieved with a search process over [[Temporal Options]] that starts from the current proposition and lead to a world where the goal propostion is satisfied. This can be achieved either by deriving a `Proposition` of the current world state and either set it as starting consequence and append new actions until the option consequence contains the goal proposition, or set the current world state to the goal proposition and
+
+pre-append [[Actions]] until the option prerequisite are validated by the current proposition.

@@ -1,0 +1,1 @@
+The `forward algorithm ` only allows to append [[Actions]] whose prerequisite is not violated by the current [[Temporal Options]] consequence, and accordingly update the option prerequisite with the action prerequisite not already satisfied by the option consequence and the global consequences by right merging the current consequence and new consequences.

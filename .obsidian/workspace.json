@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "e8abc9cc24b8ac25",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a2f539521edd01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "348911713a580ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/Cynde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bab2f5c1c3141239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7190630dbc6f7557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Guide to Writing Pydantic Classes for Structured Data Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "603b86c284ccb652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Guide to Writing Pydantic Classes for Structured Data Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435937894e670d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/Abstractions/GOAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de6deed7a7e7f8fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76db1637102d9406",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e1daf8d8061551d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/Abstractions/Entities/Entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97f1080b40a96ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/Abstractions/Actions/Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e3b791634526fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/neurodragon/Abstractions/Actions/Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cb4e3ff544b1f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Infinipy/Cyclical Journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215326accaef6048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Infinipy/Light Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecb48aae25c61c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Polars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5285eb3d55b572f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Infinipy/Cyclical Journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0c95c3cd02e995",
+    "type": "split",
+    "children": [
+      {
+        "id": "989a1676660f82c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4070ed4c9cc811",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0b5891860987ab3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f580945d5bd2455b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bd6cbdb0b4d42eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f24035eb9b4cfaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f414862ef2f06c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/Infinipy/Cyclical Journey.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e2a4511dcaf5220",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projects/Infinipy/Cyclical Journey.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b56157d1bfd3156",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1edc9f390abf79a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/Infinipy/Cyclical Journey.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "5285eb3d55b572f3",
+  "lastOpenFiles": [
+    "projects/Infinipy/Infinipl.md",
+    "projects/Infinipy/Light Mechanics.md",
+    "projects/neurodragon/Abstractions/Actions/Temporal Options.md",
+    "projects/neurodragon/Abstractions/Actions/On Forward and Reverse Logical Planning in Object-Based Deterministic Automata.md",
+    "projects/neurodragon/Abstractions/Actions/LogicalChain.md",
+    "projects/neurodragon/Abstractions/Actions/Forward Logic.md",
+    "projects/neurodragon/Abstractions/Actions/Causality.md",
+    "projects/neurodragon/Abstractions/Actions/Backward Logic.md",
+    "projects/neurodragon/Abstractions/Actions/Affordances.md",
+    "projects/neurodragon/Abstractions/Actions/Actions.md",
+    "projects/neurodragon/Abstractions/data/Data.md",
+    "projects/neurodragon/Abstractions/Entities/Attributes.md",
+    "projects/neurodragon/Abstractions/Entities/Entities.md",
+    "projects/neurodragon/Abstractions/Entities/Proposition.md",
+    "projects/neurodragon/Abstractions/Entities/Statements.md",
+    "projects/neurodragon/Abstractions/Abstractions.md",
+    "projects/neurodragon/Abstractions/GOAP.md",
+    "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
+    "projects/neurodragon/BabyDragon/BabyDragon.md",
+    "projects/neurodragon/BabyDragon/Enhanced Working Memory in GOAP Framework with Past Memory Integration.md",
+    "projects/neurodragon/BabyDragon/GOAP Entity Parsing.md",
+    "projects/neurodragon/BabyDragon/Parallelized Execution of Chat Threads for Automatic Labeling and Training of Scikit-Learn Classifiers.md",
+    "projects/neurodragon/Cynde.md",
+    "Raw Notes/voice_recs/Cynde Raw Transcript.md",
+    "Raw Notes/Demis.md",
+    "Raw Notes/voice_recs",
+    "Raw Notes",
+    "python/Outlines.md",
+    "python/Untitled",
+    "projects",
+    "projects/neurodragon/OldNeuroDragon",
+    "projects/neurodragon/Abstractions/Entities/catalog",
+    "projects/neurodragon/Abstractions/Entities",
+    "projects/neurodragon/Abstractions/Entities/catalog/book",
+    "projects/neurodragon/Abstractions/data",
+    "projects/neurodragon/Abstractions/Actions"
+  ]
+}

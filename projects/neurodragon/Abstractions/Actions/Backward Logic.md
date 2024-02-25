@@ -1,0 +1,1 @@
+The `backward algorithm` only allows[[Actions]] whose prerequisites and consequences are not in conflict with the [[Temporal Options]] prerequisite. The option consequences are updated by left merging with the pre-appended consequences. The option prerequsiste are updated with those of the new action and by removing those satisfied by the new consequences.

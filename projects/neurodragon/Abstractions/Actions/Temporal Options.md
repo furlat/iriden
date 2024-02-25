@@ -1,0 +1,3 @@
+A `Option` is an ordered collection of feasible [[Actions]] objects. It is characterized by the prerequisite and consequence `Proposition` which respectively state the atomic statements sub-configuration required for the action sequence to start and the sub-configuration that will true at the end of the sequence.
+
+The temporal consistency of the actions is ensured using either a [[Forward Logic]] or [[Backward Logic]] propagation algorithm allowing actions to be inserted ad the beginning or end of the sequence.

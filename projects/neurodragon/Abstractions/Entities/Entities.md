@@ -1,0 +1,1 @@
+In our object oriented framework `Entities` are the basic [[Abstractions]], each with a dictionary of state-variables, or [[Attributes]], that fully summarize them. For plug and play planning is better to employ boolean attributes to facilitate logical reasoning except for a few more complicated state variables that are either discretized or connected to ad-hoc subsystem.

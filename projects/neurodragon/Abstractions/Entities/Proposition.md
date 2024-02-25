@@ -1,0 +1,1 @@
+`Propositions` ground [[Statements]] to [[Entities]] and they are composed by dictionary `{entity,CompositeStatement}`.

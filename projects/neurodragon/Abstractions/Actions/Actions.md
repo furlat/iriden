@@ -1,0 +1,5 @@
+An `Action` binds an `Affordance` to a specific `source` and `target` which have the necessary attributes by constructing a prerequsite and consequence [[Proposition]].
+
+If an affordance modifies any attribute associated to the spatial or inventory system of either `source` or `target` the spatial causal consequencesa are propagated to any other involved entity and the action consequence `Proposition` is enriched with the spatially propagated consequences. E.g. the application of the open affordance to a closed door, currently blocking movement and vision, will accumulate the causal consequence of being able to path to or see new entities due to the door not blocking the way anymore.
+
+An `Action` is fully characterized by the precondition and consequence `Proposition` which include both the `Affordance` propositions and the spatial and inventory consequences computed by the dedicated systems.
