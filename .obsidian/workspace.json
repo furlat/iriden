@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/neurodragon/Cynde.md",
+                "file": "projects/Cynde/Cynde.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/neurodragon/Abstractions/GOAP.md",
+                "file": "projects/Abstractions/GOAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/neurodragon/Abstractions/Entities/Entities.md",
+                "file": "projects/Abstractions/Entities/Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/neurodragon/Abstractions/Actions/Actions.md",
+                "file": "projects/Abstractions/Actions/Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/neurodragon/Abstractions/Actions/Actions.md",
+                "file": "projects/Abstractions/Actions/Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Infinipy/Cyclical Journey.md",
+                "file": "projects/neurodragon/Infinipy/Cyclical Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Infinipy/Light Mechanics.md",
+                "file": "projects/neurodragon/Infinipy/Light Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,14 +165,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Infinipy/Cyclical Journey.md",
+                "file": "projects/PolarSpace/PolarSpace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7803e4bae1b06d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/PolarSpace/Step 1 - High Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af825abff0a804ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/PolarSpace/Step 1 - High Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "060ec2939a1780f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -238,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Infinipy/Cyclical Journey.md",
+                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Infinipy/Cyclical Journey.md",
+                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Infinipy/Cyclical Journey.md"
+                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md"
               }
             }
           }
@@ -302,43 +338,43 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5285eb3d55b572f3",
+  "active": "060ec2939a1780f0",
   "lastOpenFiles": [
-    "projects/Infinipy/Infinipl.md",
-    "projects/Infinipy/Light Mechanics.md",
-    "projects/neurodragon/Abstractions/Actions/Temporal Options.md",
-    "projects/neurodragon/Abstractions/Actions/On Forward and Reverse Logical Planning in Object-Based Deterministic Automata.md",
-    "projects/neurodragon/Abstractions/Actions/LogicalChain.md",
-    "projects/neurodragon/Abstractions/Actions/Forward Logic.md",
-    "projects/neurodragon/Abstractions/Actions/Causality.md",
-    "projects/neurodragon/Abstractions/Actions/Backward Logic.md",
-    "projects/neurodragon/Abstractions/Actions/Affordances.md",
-    "projects/neurodragon/Abstractions/Actions/Actions.md",
-    "projects/neurodragon/Abstractions/data/Data.md",
-    "projects/neurodragon/Abstractions/Entities/Attributes.md",
-    "projects/neurodragon/Abstractions/Entities/Entities.md",
-    "projects/neurodragon/Abstractions/Entities/Proposition.md",
-    "projects/neurodragon/Abstractions/Entities/Statements.md",
-    "projects/neurodragon/Abstractions/Abstractions.md",
-    "projects/neurodragon/Abstractions/GOAP.md",
-    "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
-    "projects/neurodragon/BabyDragon/BabyDragon.md",
-    "projects/neurodragon/BabyDragon/Enhanced Working Memory in GOAP Framework with Past Memory Integration.md",
-    "projects/neurodragon/BabyDragon/GOAP Entity Parsing.md",
-    "projects/neurodragon/BabyDragon/Parallelized Execution of Chat Threads for Automatic Labeling and Training of Scikit-Learn Classifiers.md",
-    "projects/neurodragon/Cynde.md",
+    "Raw Notes/voice_recs/Note sul prendere appunti via whisper.md",
+    "Raw Notes/voice_recs/PolarSpace Transcript.md",
+    "Raw Notes/voice_recs/LookAhead durante la conversazione.md",
     "Raw Notes/voice_recs/Cynde Raw Transcript.md",
-    "Raw Notes/Demis.md",
+    "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
+    "projects/PolarSpace/Step 1 - Front End.md",
+    "projects/PolarSpace/Step 1 - Fast Api.md",
+    "projects/PolarSpace/Step 1 - High Level.md",
+    "projects/PolarSpace/PolarSpace.md",
+    "projects/Cynde/Cynde.md",
+    "projects/neurodragon/BabyDragon/Parallelized Execution of Chat Threads for Automatic Labeling and Training of Scikit-Learn Classifiers.md",
+    "projects/neurodragon/BabyDragon/GOAP Entity Parsing.md",
+    "projects/neurodragon/BabyDragon/Enhanced Working Memory in GOAP Framework with Past Memory Integration.md",
+    "projects/neurodragon/BabyDragon/BabyDragon.md",
+    "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
+    "projects/Abstractions/Actions/LogicalChain.md",
+    "python/Polars.md",
+    "projects/PolarSpace",
+    "LLM.md",
+    "projects/Abstractions/Abstractions.md",
+    "projects/Abstractions/Entities/Proposition.md",
+    "projects/Abstractions/Entities/Entities.md",
+    "projects/Abstractions/Entities/Attributes.md",
+    "projects/Cynde",
+    "projects/Abstractions/catalog/book/Book.md",
+    "projects/Abstractions/Entities/Statements.md",
+    "projects/Abstractions/Actions/Temporal Options.md",
+    "projects/Abstractions/Actions/On Forward and Reverse Logical Planning in Object-Based Deterministic Automata.md",
     "Raw Notes/voice_recs",
     "Raw Notes",
-    "python/Outlines.md",
     "python/Untitled",
     "projects",
     "projects/neurodragon/OldNeuroDragon",
-    "projects/neurodragon/Abstractions/Entities/catalog",
-    "projects/neurodragon/Abstractions/Entities",
-    "projects/neurodragon/Abstractions/Entities/catalog/book",
-    "projects/neurodragon/Abstractions/data",
-    "projects/neurodragon/Abstractions/Actions"
+    "projects/Abstractions/catalog",
+    "projects/Abstractions/Entities",
+    "projects/Abstractions/catalog/book"
   ]
 }

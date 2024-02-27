@@ -1,0 +1,2 @@
+Qui stavo considerando, cioè, andrebbe fatto un po' un conto di qual è la velocità a cui sono in grado di generare dati durante una conversazione con un altro, registrando una conversazione con un altro essere umano è probabilmente una maniera per tenere traccia delle domande fatte dall'altro essere umano e mantenere un po' un ordine in maniera tale da evidenziare le parti di testo. che sono più difficili. 
+
