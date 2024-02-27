@@ -199,12 +199,8 @@
             "id": "060ec2939a1780f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -274,7 +270,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +286,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,9 +307,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Raw Notes/voice_recs/Abstractions Chat with Enrica.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -340,11 +332,12 @@
   },
   "active": "060ec2939a1780f0",
   "lastOpenFiles": [
+    "projects/Abstractions/Notes 27-02-24.md",
+    "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
     "Raw Notes/voice_recs/Note sul prendere appunti via whisper.md",
     "Raw Notes/voice_recs/PolarSpace Transcript.md",
     "Raw Notes/voice_recs/LookAhead durante la conversazione.md",
     "Raw Notes/voice_recs/Cynde Raw Transcript.md",
-    "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
     "projects/PolarSpace/Step 1 - Front End.md",
     "projects/PolarSpace/Step 1 - Fast Api.md",
     "projects/PolarSpace/Step 1 - High Level.md",
@@ -367,7 +360,6 @@
     "projects/Abstractions/catalog/book/Book.md",
     "projects/Abstractions/Entities/Statements.md",
     "projects/Abstractions/Actions/Temporal Options.md",
-    "projects/Abstractions/Actions/On Forward and Reverse Logical Planning in Object-Based Deterministic Automata.md",
     "Raw Notes/voice_recs",
     "Raw Notes",
     "python/Untitled",
