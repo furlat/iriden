@@ -332,6 +332,10 @@
   },
   "active": "060ec2939a1780f0",
   "lastOpenFiles": [
+    "projects/PapersToWrite/On LLMs Understanding of Python Syntax Trees.md",
+    "python/LibCST.md",
+    "Raw Notes/voice_recs/Ideas about learning classifiers of libcst nodes.md",
+    "projects/PapersToWrite",
     "projects/Abstractions/Notes 27-02-24.md",
     "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
     "Raw Notes/voice_recs/Note sul prendere appunti via whisper.md",
@@ -357,16 +361,12 @@
     "projects/Abstractions/Entities/Entities.md",
     "projects/Abstractions/Entities/Attributes.md",
     "projects/Cynde",
-    "projects/Abstractions/catalog/book/Book.md",
-    "projects/Abstractions/Entities/Statements.md",
-    "projects/Abstractions/Actions/Temporal Options.md",
     "Raw Notes/voice_recs",
     "Raw Notes",
     "python/Untitled",
     "projects",
     "projects/neurodragon/OldNeuroDragon",
     "projects/Abstractions/catalog",
-    "projects/Abstractions/Entities",
-    "projects/Abstractions/catalog/book"
+    "projects/Abstractions/Entities"
   ]
 }
