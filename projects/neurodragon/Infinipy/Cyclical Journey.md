@@ -1,4 +1,4 @@
-
+[[Infinipl]]
 ## Overview
 
 This game engine is a unique blend of strategy, decision-making, and narrative, set in a fantasy world where an android AI navigates a realm governed by superdeterminism. It leverages logical statements to represent all entities and actions, creating a deterministic yet strategically complex environment.

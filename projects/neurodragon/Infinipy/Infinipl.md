@@ -1,4 +1,4 @@
-
+[[GOAP]]
 
 A natively plannable discrete space, discrete time, 2d simulation engine with a Polars backend.
 
@@ -45,9 +45,9 @@ The most stringent requirement on the engine design is imposed by the logical ST
 
 Our framweork implements under the hood the following systems and automatially prepares their output for logical reasoning:
 
-* pathfinding
+* [[Pathfinding]]
 
-* raycasting
+* [[Raycasting]]
 
 * L1,L2 and manhattan distance
 

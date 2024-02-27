@@ -1,3 +1,4 @@
+[[NeuroDragon]],[[BabyDragon]],[[Abstractions]]
 To design a detailed hierarchical architecture inspired by neuroscience, the physics of computation, and thermodynamics, we can follow these actionable steps:
 
 1. **Sensory processing layers**: Create layers for processing raw sensory data, such as vision, audition, and touch. These layers should be designed based on the principles of the primary sensory cortices in the brain, including feature extraction, hierarchical organization, and sparsity. Incorporate energy-efficient algorithms and hardware implementations to minimize the thermodynamic cost of computation.

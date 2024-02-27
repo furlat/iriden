@@ -1,3 +1,4 @@
+[[NeuroDragon]][[DSPy]]
 # A Differentiable Society of LLMinds
 
 The approach of designing a "society of mind" through a composition of non-differentiable and differentiable layers is based on creating a modular architecture that combines machine learning methods and traditional AI techniques. By composing these layers, we can create a system that can learn end-to-end while also having non-differentiable components, such as text generation, memory selection, nearest neighbor retrieval, and subchat selection.

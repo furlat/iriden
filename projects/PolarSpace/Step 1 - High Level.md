@@ -1,5 +1,5 @@
 
-Sure, here are the detailed instructions for the first degree of the [PolarSpace] project, which involves setting up the workspace, authenticating users, uploading Parquet files, associating polar schemas, and visualizing the data using GreatTables.
+Sure, here are the detailed instructions for the first degree of the [[PolarSpace]] project, which involves setting up the workspace, authenticating users, uploading Parquet files, associating polar schemas, and visualizing the data using GreatTables.
 
 1. **Setup the workspace**: Create a workspace that can be interacted with via API. This workspace should be capable of hosting a set of polar frames and their disk representation in Parquet format.
 

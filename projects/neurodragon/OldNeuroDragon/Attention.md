@@ -1,3 +1,4 @@
+[[BabyDragon]][[Brain Inspired]][[NeuroDragon]]
 # Attention Mechanism Tuned via Reinforcement Learning for Optimal Memory Selection
 
 ## Overview

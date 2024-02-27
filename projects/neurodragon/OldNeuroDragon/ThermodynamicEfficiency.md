@@ -1,3 +1,4 @@
+[[Intelligence]] [[NeuroDragon]] [[Abstractions]]
 # Thermodynamic Intelligence
 
 Intelligence can be related to thermodynamic efficiency through the concept of computation and information processing. As intelligent agents, such as AGI systems, process information to make decisions and solve problems, they inherently perform computations. These computations can be analyzed in terms of their thermodynamic properties and efficiency.

@@ -1,4 +1,4 @@
-To begin with the abstraction using Pydantic Models in Generative AI workflows, let's create a simple pydantic model that represents a `Book` and its associated components like `Chapter`, `Paragraph`, `Sentence`, and `Word
+To begin with the [[Abstractions]] using [[Pydantic]] Models in Generative AI workflows, let's create a simple pydantic model that represents a `Book` and its associated components like `Chapter`, `Paragraph`, `Sentence`, and `Word
 
 Here are the python codes all 4 classes with docstring and descriptions of the each funciton in detail and validators, the length of the tutorial is around 4k tokens:
 
