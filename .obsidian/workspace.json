@@ -199,8 +199,12 @@
             "id": "060ec2939a1780f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "python/Polars.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -270,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python/Polars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python/Polars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +313,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python/Polars.md"
+              }
             }
           }
         ],
@@ -332,41 +340,41 @@
   },
   "active": "060ec2939a1780f0",
   "lastOpenFiles": [
-    "projects/neurodragon/BabyDragon/Babydragon Chat.md",
-    "projects/neurodragon/BabyDragon/BabyDragon.md",
-    "projects/neurodragon/BabyDragon/A MemoryLoop Framework Architecture.md",
-    "projects/neurodragon/BabyDragon/BabyDragon Readme.md",
-    "projects/neurodragon/BabyDragon/Enhanced Working Memory in GOAP Framework with Past Memory Integration.md",
-    "projects/neurodragon/BabyDragon/BabyDragon Threads.md",
-    "projects/neurodragon/BabyDragon/Processors submodule for BabyDragon library.md",
-    "projects/neurodragon/BabyDragon/BabyDragon Indexes.md",
-    "projects/neurodragon/OldNeuroDragon/Attention.md",
-    "projects/neurodragon/Infinipy/Infinipl.md",
-    "projects/neurodragon/OldNeuroDragon/ThermodynamicEfficiency.md",
-    "LLM.md",
-    "Transcripts.md",
-    "projects/neurodragon/OldNeuroDragon/SocietyOfMind.md",
-    "projects/neurodragon/OldNeuroDragon/Brain Inspired.md",
-    "projects/PolarSpace/Step 1 - High Level.md",
-    "projects/PapersToWrite/On LLMs Understanding of Python Syntax Trees.md",
     "python/Outlines.md",
-    "projects/Abstractions/data/Data.md",
-    "Raw Notes/voice_recs/Note sul prendere appunti via whisper.md",
-    "projects/neurodragon/OldNeuroDragon/NeuroDragon.md",
-    "projects/Abstractions/catalog/book/Book.md",
-    "projects/Abstractions/Actions/Temporal Options.md",
-    "projects/Abstractions/Actions/On Forward and Reverse Logical Planning in Object-Based Deterministic Automata.md",
-    "projects/Abstractions/Actions/LogicalChain.md",
-    "projects/Abstractions/Actions/Forward Logic.md",
+    "python/Modals.md",
+    "python/LibCST.md",
+    "python/LangSmith.md",
+    "python/LangChain.md",
+    "python/Guide to Writing Pydantic Classes for Structured Data Modeling.md",
+    "python/GreatTables.md",
+    "python/DSPy.md",
+    "LLM.md",
+    "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
+    "Raw Notes/voice_recs/Cynde Raw Transcript.md",
+    "projects/PolarSpace/PolarSpace.md",
+    "projects/PolarSpace/Step 1 - Fast Api.md",
+    "projects/PapersToWrite/On LLMs Understanding of Python Syntax Trees.md",
+    "projects/PolarSpace/Step 1 - Front End.md",
+    "projects/PolarSpace/Step 1 - High Level.md",
+    "python/LangChain",
+    "python/LangSmith",
+    "Raw Notes/voice_recs/Validazione di Output Strutturati.md",
+    "Raw Notes/voice_recs/Ruota Libera su Cynde.md",
+    "python/FastAPI.md",
+    "python/Polars.md",
+    "python/Pydantic.md",
+    "python/Scikit-Learn.md",
+    "projects/Cynde/Cynde.md",
+    "Raw Notes/voice_recs/Ideas about learning classifiers of libcst nodes.md",
+    "projects/neurodragon/Infinipy/Light Mechanics.md",
+    "projects/neurodragon/Infinipy/Infinipl.md",
     "projects/PapersToWrite",
     "projects/PolarSpace",
     "projects/Cynde",
     "Raw Notes/voice_recs",
     "Raw Notes",
-    "python/Untitled",
     "projects",
     "projects/neurodragon/OldNeuroDragon",
-    "projects/Abstractions/catalog",
-    "projects/Abstractions/Entities"
+    "projects/Abstractions/catalog"
   ]
 }

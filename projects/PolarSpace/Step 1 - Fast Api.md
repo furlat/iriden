@@ -1,5 +1,5 @@
 
-Apologies for the oversight. Here are the detailed instructions for integrating [[FastAPI]] into the [[PolarSpace]]  project:
+Here are the detailed instructions for integrating [[FastAPI]] into the [[PolarSpace]]  project:
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It will be used to serve the data frames and handle API requests in the Polar Space project.
 
