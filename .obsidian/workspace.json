@@ -201,14 +201,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Polars.md",
+                "file": "Raw Notes/voice_recs/Validazione di Output Strutturati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531efc13812bc976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raw Notes/voice_recs/descrizione lavoro peter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Polars.md",
+                "file": "Raw Notes/voice_recs/descrizione lavoro peter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Polars.md",
+                "file": "Raw Notes/voice_recs/descrizione lavoro peter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Polars.md"
+                "file": "Raw Notes/voice_recs/descrizione lavoro peter.md"
               }
             }
           }
@@ -338,36 +350,36 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "060ec2939a1780f0",
+  "active": "531efc13812bc976",
   "lastOpenFiles": [
-    "python/Outlines.md",
-    "python/Modals.md",
-    "python/LibCST.md",
+    "Raw Notes/voice_recs/random audio note about polarspace.md",
+    "projects/PapersToWrite/On LLMs Understanding of Python Syntax Trees.md",
+    "Raw Notes/voice_recs/descrizione lavoro peter.md",
+    "python/FastAPI.md",
+    "python/DSPy.md",
+    "python/Scikit-Learn.md",
+    "python/Pydantic.md",
     "python/LangSmith.md",
     "python/LangChain.md",
-    "python/Guide to Writing Pydantic Classes for Structured Data Modeling.md",
+    "python/LibCST.md",
     "python/GreatTables.md",
-    "python/DSPy.md",
+    "python/LanceDB.md",
+    "projects/PolarSpace/Step 1 - High Level.md",
+    "projects/PolarSpace/PolarSpace.md",
+    "projects/PolarSpace/Step 1 - Front End.md",
+    "projects/PolarSpace/Step 1 - Fast Api.md",
+    "projects/Cynde/LanceDB integration with Cynde.md",
+    "projects/Cynde/Cynde.md",
+    "Raw Notes/voice_recs/Validazione di Output Strutturati.md",
+    "python/Polars.md",
+    "python/Outlines.md",
+    "python/Modals.md",
+    "python/Guide to Writing Pydantic Classes for Structured Data Modeling.md",
     "LLM.md",
     "Raw Notes/voice_recs/Abstractions Chat with Enrica.md",
     "Raw Notes/voice_recs/Cynde Raw Transcript.md",
-    "projects/PolarSpace/PolarSpace.md",
-    "projects/PolarSpace/Step 1 - Fast Api.md",
-    "projects/PapersToWrite/On LLMs Understanding of Python Syntax Trees.md",
-    "projects/PolarSpace/Step 1 - Front End.md",
-    "projects/PolarSpace/Step 1 - High Level.md",
     "python/LangChain",
     "python/LangSmith",
-    "Raw Notes/voice_recs/Validazione di Output Strutturati.md",
-    "Raw Notes/voice_recs/Ruota Libera su Cynde.md",
-    "python/FastAPI.md",
-    "python/Polars.md",
-    "python/Pydantic.md",
-    "python/Scikit-Learn.md",
-    "projects/Cynde/Cynde.md",
-    "Raw Notes/voice_recs/Ideas about learning classifiers of libcst nodes.md",
-    "projects/neurodragon/Infinipy/Light Mechanics.md",
-    "projects/neurodragon/Infinipy/Infinipl.md",
     "projects/PapersToWrite",
     "projects/PolarSpace",
     "projects/Cynde",
